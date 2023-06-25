@@ -17,55 +17,55 @@ List<Product> products = [
   Product(
     id: 1,
     price: 59,
-    title: "سماعات لاسلكية",
-    subTitle: "جودة صوت عالية",
+    title: "Wireless Earphones",
+    subTitle: "High-Quality Sound",
     image: "images/airpod.png",
     description:
-        "لوريم ايبسوم دولار سيت أميت ,كونسيكتيتور أدايبا يسكينج أليايت,سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
   ),
   Product(
     id: 2,
     price: 1099,
-    title: "جهاز موبايل",
-    subTitle: "وأصبح للموبايل قوة",
+    title: "Mobile Device",
+    subTitle: "Power in your hands",
     image: "images/mobile.png",
     description:
-        "لوريم ايبسوم دولار سيت أميت ,كونسيكتيتور أدايبا يسكينج أليايت,سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
   ),
   Product(
     id: 3,
     price: 39,
-    title: "نظارات ثلاثية الأبعاد",
-    subTitle: "لنقلك للعالم الافتراضي",
+    title: "3D Glasses",
+    subTitle: "Immerse yourself in virtual reality",
     image: "images/class.png",
     description:
-        "لوريم ايبسوم دولار سيت أميت ,كونسيكتيتور أدايبا يسكينج أليايت,سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
   ),
   Product(
     id: 4,
     price: 56,
-    title: "سماعات",
-    subTitle: "لساعات استماع طويلة",
+    title: "Headphones",
+    subTitle: "For long listening sessions",
     image: "images/headset.png",
     description:
-        "لوريم ايبسوم دولار سيت أميت ,كونسيكتيتور أدايبا يسكينج أليايت,سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
   ),
   Product(
     id: 5,
     price: 68,
-    title: "مسجل صوت",
-    subTitle: "سجل اللحظات المهمة حولك",
+    title: "Voice Recorder",
+    subTitle: "Capture important moments around you",
     image: "images/speaker.png",
     description:
-        "لوريم ايبسوم دولار سيت أميت ,كونسيكتيتور أدايبا يسكينج أليايت,سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
   ),
   Product(
     id: 6,
     price: 39,
-    title: "كاميرات كمبيوتر",
-    subTitle: "بجودة ودقة صورة عالية",
+    title: "Computer Cameras",
+    subTitle: "High-quality and high-resolution images",
     image: "images/camera.png",
     description:
-        "لوريم ايبسوم دولار سيت أميت ,كونسيكتيتور أدايبا يسكينج أليايت,سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
   ),
 ];

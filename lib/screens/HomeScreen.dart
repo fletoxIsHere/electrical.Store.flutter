@@ -20,7 +20,7 @@ class HomeScreen extends StatelessWidget {
         backgroundColor: kPrimaryColor,
         elevation: 0,
         title: Text(
-          'مرحبا بكم بمتجر الالكترونيات',
+          'Welcome to Electrical Store',
           style: GoogleFonts.getFont(
             'Almarai',
             color: Colors.white,

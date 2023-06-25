@@ -1,17 +1,18 @@
 import 'package:flutter/material.dart';
 import 'package:store_app/constant.dart';
+import 'package:store_app/models/product.dart';
 
 import '../widgets/details/detail_body.dart';
 
 class DetailScreen extends StatelessWidget {
-  const DetailScreen({super.key});
-
+  const DetailScreen({super.key, required this.product});
+  final Product product; 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: kPrimaryColor,
       appBar: detailsAppBar(context),
-      body: DetailsBody(),
+      body: DetailsBody(product: product,),
     );
   }
 
